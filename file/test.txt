@@ -1,0 +1,6 @@
+Hello, this is a test file.
+This file is used for testing file operations in Python.
+We can write multiple lines to this file.
+This is the last line of the test file.
+This line is appended to the test file.
+Appending allows us to add content without overwriting existing data.
